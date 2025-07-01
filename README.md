@@ -11,7 +11,9 @@
 -->
 
 I'm Mudi Liu, a gameplay programmer at Dallas, TX.
+
 I graduated from Southern Methodist University (SMU) in May 2024 with Computer Science B.A. major.
+
 I'm currently pursuing my master's degree in software development for games at SMU Guildhall.
 
 
