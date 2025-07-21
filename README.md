@@ -14,7 +14,7 @@ I'm Mudi Liu, a gameplay programmer at Dallas, TX.
 
 I graduated from Southern Methodist University (SMU) in May 2024 with Computer Science B.A. major.
 
-I'm currently pursuing my master's degree in software development for games at SMU Guildhall.
+I'm currently pursuing the Master of Interactive Technology (MIT) for Games at SMU Guildhall.
 
 ![Undergrad](/assets/img/logobluetype2x.png)
 
@@ -34,7 +34,8 @@ I'm currently pursuing my master's degree in software development for games at S
 
 
 ## 👯 Team Projects
-- HardDriverz, third-person local-multiplayer racing game, planned Steam release date: May 2026
-- Hourglass (temporary name), third-person singleplayer action-adventure game, planned Steam release date: May 2026
+- [HardDriverz](https://store.steampowered.com/app/3533890/HardDriverz) (A third-person arcade racing game, released on Steam)
+- [KittyPunk](https://www.youtube.com/watch?v=SIvAZHS_G8M) (A mobile 2D platformer game with swing mechanics)
+- Project Hourglass (temporary name) (A third-person singleplayer action-adventure game, planned Steam release date: May 2026)
 
 
