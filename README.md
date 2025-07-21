@@ -19,11 +19,11 @@ I'm currently pursuing my master's degree in software development for games at S
 ![Undergrad](/assets/img/logobluetype2x.png)
 
 ## 🌱What's in My Repository
-- Solo Unreal and C++ Projects I made from 2019 to 2025 (To be added)
+- Solo Unreal and C++ Projects I made from 2019 to 2025
 - Unity game mods I made for my friends to improve gameplay experience. Modded games included:
   - Lethal Company ([Kill it with shovel](https://github.com/19miffyliu/Kill-It-With-Shovel),[Invincible Player](https://github.com/19miffyliu/Invincible_Player),[No Reload](https://github.com/19miffyliu/No_Reload))
 
-![LethalCompanySnapShot](/assets/img/YesBersekerMode.gif)
+
 
 
 ## 👯 Team Projects
