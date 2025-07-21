@@ -20,12 +20,12 @@ I'm currently pursuing the Master of Interactive Technology (MIT) for Games at S
 
 ## 🌱What's in My Repository
 - Solo Unreal and C++ Projects I made from 2019 to present:
-  - [Engine](https://github.com/19miffyliu/Engine) (necessary dll library for all my C++ game projects)
+  - [Engine](https://github.com/19miffyliu/Engine) (Necessary dll library for all my C++ game projects)
   - [Chess3D](https://github.com/19miffyliu/Chess3D) (A 3D networked multithreaded chess that allows multiple spectators)
   - [Zombie2D](https://github.com/19miffyliu/Zombie2D) (A 2D pixelated simulation game where players can watch the zombies and civilians fight and survive on a large map)
   - [Doomenstein](https://github.com/19miffyliu/Doomenstein) (A 2.5D local-multiplayer game with 3D lighting on 2D rotatable sprites)
   - [Starship](https://github.com/19miffyliu/Starship) (A 2D top-down space shooter where players bounce around on a large map shooting enemy ships)
-  - [Libra](https://github.com/19miffyliu/Libra) (a 2D top-down action shooter game with Dijkstra's algorithm for enemy pathfinding)
+  - [Libra](https://github.com/19miffyliu/Libra) (A 2D top-down action shooter game with Dijkstra's algorithm for enemy pathfinding)
 
 - Unity game mods I made for my friends to improve gameplay experience. Modded games included:
   - Lethal Company ([Kill it with shovel](https://github.com/19miffyliu/Kill-It-With-Shovel),[Invincible Player](https://github.com/19miffyliu/Invincible_Player),[No Reload](https://github.com/19miffyliu/No_Reload))
@@ -34,8 +34,10 @@ I'm currently pursuing the Master of Interactive Technology (MIT) for Games at S
 
 
 ## 👯 Team Projects
-- [HardDriverz](https://store.steampowered.com/app/3533890/HardDriverz) (A third-person arcade racing game, released on Steam)
+- [HardDriverz](https://store.steampowered.com/app/3533890/HardDriverz) (A third-person arcade racing game, planned Steam release date: Aug 2025)
+![HardDriverz Poster](assets/img/HardDriverz_tv_res_4k.png)
 - [KittyPunk](https://www.youtube.com/watch?v=SIvAZHS_G8M) (A mobile 2D platformer game with swing mechanics)
+![KittyPunk Menu](assets/img/KittyPunk_MainMenu.png)
 - Project Hourglass (temporary name) (A third-person singleplayer action-adventure game, planned Steam release date: May 2026)
 
 
