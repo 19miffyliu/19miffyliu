@@ -19,7 +19,14 @@ I'm currently pursuing my master's degree in software development for games at S
 ![Undergrad](/assets/img/logobluetype2x.png)
 
 ## 🌱What's in My Repository
-- Solo Unreal and C++ Projects I made from 2019 to 2025
+- Solo Unreal and C++ Projects I made from 2019 to present:
+  - [Engine](https://github.com/19miffyliu/Engine) (necessary dll library for all my C++ game projects)
+  - [Chess3D](https://github.com/19miffyliu/Chess3D) (A 3D networked multithreaded chess that allows multiple spectators)
+  - [Zombie2D](https://github.com/19miffyliu/Zombie2D) (A 2D pixelated simulation game where players can watch the zombies and civilians fight and survive on a large map)
+  - [Doomenstein](https://github.com/19miffyliu/Doomenstein) (A 2.5D local-multiplayer game with 3D lighting on 2D rotatable sprites)
+  - [Starship](https://github.com/19miffyliu/Starship) (A 2D top-down space shooter where players bounce around on a large map shooting enemy ships)
+  - [Libra](https://github.com/19miffyliu/Libra) (a 2D top-down action shooter game with Dijkstra's algorithm for enemy pathfinding)
+
 - Unity game mods I made for my friends to improve gameplay experience. Modded games included:
   - Lethal Company ([Kill it with shovel](https://github.com/19miffyliu/Kill-It-With-Shovel),[Invincible Player](https://github.com/19miffyliu/Invincible_Player),[No Reload](https://github.com/19miffyliu/No_Reload))
 
